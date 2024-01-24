@@ -11,14 +11,6 @@ description              : "PHD candidate student of Central University of Finan
 repository               : "xyxu0922.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
 # Site Author
 author:
   name             : "Cynthia(Xiaoying) Xu"
@@ -29,16 +21,12 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl=zh-CN"
   email            : "xxy000922@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  twitter          : 
+  researchgate     : "https://www.researchgate.net/profile/Xiaoying-Xu-14
+  facebook         : "Xiaoying Xu"
+  github           : "xyxu0922"
+  instagram        : "Xiaoying Xu"
+  linkedin         : "许筱颖 (Cynthia)"
+  twitter          : "?"
 
 
 
