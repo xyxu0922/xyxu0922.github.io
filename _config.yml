@@ -22,20 +22,14 @@ author:
   avatar           : "images/微信图片_20220221172116.jpg"
   bio              : "Central University of Finance and Economics"
   location         : "Beijing, China"
-  employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl=zh-CN"
   email            : "xxy000922@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  twitter          : 
+  researchgate     : "https://www.researchgate.net/profile/Xiaoying-Xu-14"
+  facebook         : "Xiaoying Xu"
+  github           : "xyxu0922"
+  instagram        : "Xiaoying Xu"
+  linkedin         : "许筱颖"
+  twitter          : "Xiaoying Xu"
 # Reading Files
 include:
   - .htaccess
