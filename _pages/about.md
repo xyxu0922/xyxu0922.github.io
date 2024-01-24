@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a PHD candidate student of College of Finance, Central University of Finance and Economics, China.
 
-My research interest includes Behavioral Finance, Asset Pricing and Financial Markets <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Behavioral Finance, Asset Pricing and Financial Markets <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
