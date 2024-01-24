@@ -49,7 +49,8 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2015.09 - 2018.06*, Fuzhou No.1 High School, Fuzhou, Fujian, China
 
 # 💬 Invited Talks
-- *2022.06*, [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html).  
+- *2024.01*, [清华大学博士生讲师团“立言计划”第六期（秋季学期）结业](https://www.tsinghua.edu.cn/info/1180/109399.htm) “立言计划”高校班优秀学员代表
+- *2022.06*, [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html). 第二讲&第八讲主讲人
 
 # 💻 Internships
 - *2019.05 - 2020.02*, Still updating.  
