@@ -23,9 +23,9 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 
 
 # 🔥 News
-- *2022.05*: &nbsp;🎉 许筱颖同学入选本专科生国家奖学金获奖学生100名代表名录(https://news.hnu.edu.cn/info/1102/31035.htm).
-- *2021.06*: &nbsp;🎉 “最美大学生”许筱颖：青春本多彩 韶华不可负(https://news.hnu.edu.cn/info/1106/28728.htm).
-- *2021.06*: &nbsp;🎉 许筱颖获评“湖南向上向善好青年” (https://news.hnu.edu.cn/info/1102/27283.htm).
+- *2022.05*: &nbsp;🎉 [许筱颖同学入选本专科生国家奖学金获奖学生100名代表名录](https://news.hnu.edu.cn/info/1102/31035.htm).
+- *2021.06*: &nbsp;🎉 [“最美大学生”许筱颖：青春本多彩 韶华不可负](https://news.hnu.edu.cn/info/1106/28728.htm).
+- *2021.06*: &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”] (https://news.hnu.edu.cn/info/1102/27283.htm).
 
 
 # 📝 Publications 
@@ -49,7 +49,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2015.09 - 2018.06*, Fuzhou No.1 High School, Fuzhou, Fujian, China
 
 # 💬 Invited Talks
-- *2022.06*, 《与投资者同行》金融科普公益视频第一季 (https://www.yicai.com/news/101447009.html).  
+- *2022.06*, [《与投资者同行》金融科普公益视频第一季] (https://www.yicai.com/news/101447009.html).  
 
 # 💻 Internships
 - *2019.05 - 2020.02*, Still updating.  
