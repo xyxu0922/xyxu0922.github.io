@@ -50,7 +50,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
 - *2024.06* [长三角高校“向新 向质 向未来”青年联合宣讲暨全国高校接力宣讲活动](https://mp.weixin.qq.com/s/mnhJ5kkdv9UF4T5K9XQI5g)，论坛报告人
-- *2024.01* [清华大学博士生讲师团“立言计划”第六期（秋季学期）结业](https://www.tsinghua.edu.cn/info/1180/109399.htm)， “立言计划”高校班优秀学员代表
+- *2024.01* [清华大学博士生讲师团“立言计划”第六期（秋季学期）结业](https://www.tsinghua.edu.cn/info/1180/109399.htm)， 高校班优秀学员代表
 - *2022.06* [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html)，第二讲&第八讲主讲人
 
 # 💻 Important Internships
