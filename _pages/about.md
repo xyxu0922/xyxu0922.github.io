@@ -30,7 +30,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 # 📝 Publications 
 - *2022.12* Smart money or chasing stars: Evidence from northbound trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
 
-# 🎖 Honors and Awards
+# 🎖 Important Honors and Awards
 - *2023.11* Xiaomi Special Scholarship (Graduate) (3 students in CUFE a year)
 - *2023.10* First Class Award for Graduate Student (Top 10%)
 - *2022.10* First Class Award for Graduate Student (Top 10%)
@@ -49,11 +49,11 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2024.06* [2024 AsianFA Conference](http://asianfa2024.org/ConferenceProgram.html) Session 15, Presenter
 - *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
-- *2024.06* [长三角高校“向新 向质 向未来”青年联合宣讲暨全国高校接力宣讲活动](https://mp.weixin.qq.com/s/mnhJ5kkdv9UF4T5K9XQI5g),论坛报告
+- *2024.06* [长三角高校“向新 向质 向未来”青年联合宣讲暨全国高校接力宣讲活动](https://mp.weixin.qq.com/s/mnhJ5kkdv9UF4T5K9XQI5g)，论坛报告人
 - *2024.01* [清华大学博士生讲师团“立言计划”第六期（秋季学期）结业](https://www.tsinghua.edu.cn/info/1180/109399.htm)， “立言计划”高校班优秀学员代表
 - *2022.06* [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html)，第二讲&第八讲主讲人
 
-# 💻 Internships 
+# 💻 Important Internships
 - *2023.06 - now*, Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
 - *2022.07 - 2022.08* 福建团省委青年发展部
 - *2022.02 - 2022.08* 北京学说科技有限公司运营部
