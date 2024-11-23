@@ -31,7 +31,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2022.12* Smart money or chasing stars: Evidence from northbound trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
 
 # 🎖 Important Honors and Awards
-- *2023.11* Xiaomi Special Scholarship (Graduate) (3 students in CUFE a year)
+- *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
 - *2023.10* First Class Award for Graduate Student (Top 10%)
 - *2022.10* First Class Award for Graduate Student (Top 10%)
 - *2022.05* Baogang Outstanding Student (Undergraduate) (2 students in HNU a year)
@@ -45,12 +45,14 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2018.09 - 2022.06* College of Finance and Statistics, Hunan University, Changsha,Hunan, China.
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
-# 💬 Important Conference & Invited Talks
-- *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛]([http://cfam.top/upcoming/](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8))，论文汇报人
-- *2024.11* [第二十一届中国金融学年会](https://www2.scut.edu.cn/cfam/nhzwh/list.htm)，论文汇报人
-- *2024.06* [2024 AsianFA Conference](http://asianfa2024.org/ConferenceProgram.html) Session 15, Presenter & Discussant
-- *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人
+# 💬 Important Conference
+- *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8)，论文汇报人
+- *2024.11* [第二十一届中国金融学年会](https://www2.scut.edu.cn/cfam/nhzwh/list.htm)，论文汇报人 & 点评人
+- *2024.06* [2024 AsianFA Conference](http://asianfa2024.org/ConferenceProgram.html) Presenter & Discussant
+- *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人 & 点评人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
+  
+# 🆙 Social Service
 - *2024.06* [长三角高校“向新 向质 向未来”青年联合宣讲暨全国高校接力宣讲活动](https://mp.weixin.qq.com/s/mnhJ5kkdv9UF4T5K9XQI5g)，论坛报告人
 - *2024.01* [清华大学博士生讲师团“立言计划”第六期（秋季学期）结业](https://www.tsinghua.edu.cn/info/1180/109399.htm)， 高校班优秀学员代表
 - *2022.06* [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html)，第二讲&第八讲主讲人
