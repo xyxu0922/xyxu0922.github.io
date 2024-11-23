@@ -46,6 +46,8 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
 # 💬 Important Conference & Invited Talks
+- *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛]([http://cfam.top/upcoming/](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8))，论文汇报人
+- *2024.11* [第二十一届中国金融学年会](https://www2.scut.edu.cn/cfam/nhzwh/list.htm)，论文汇报人
 - *2024.06* [2024 AsianFA Conference](http://asianfa2024.org/ConferenceProgram.html) Session 15, Presenter & Discussant
 - *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
