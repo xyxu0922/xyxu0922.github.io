@@ -36,7 +36,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人 & 点评人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
 
-# 🎖 Important Honors and Awards
+# 🎖 Honors and Awards
 - *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
 - *2023.10* First Class Award for Graduate Student (Top 10%)
 - *2022.10* First Class Award for Graduate Student (Top 10%)
@@ -56,7 +56,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2021.06* &nbsp;🎉 [“最美大学生”许筱颖：青春本多彩 韶华不可负](https://news.hnu.edu.cn/info/1106/28728.htm).
 - *2021.06* &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”](https://news.hnu.edu.cn/info/1102/27283.htm).
 
-# 💻 Important Internships
+# 💻 Internships
 - *2023.06 - now*, Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
 - *2022.07 - 2022.08* 福建团省委青年发展部
 - *2022.02 - 2022.08* 北京学说科技有限公司运营部
