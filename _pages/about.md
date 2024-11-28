@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PHD candidate student of College of Finance, Central University of Finance and Economics, China.
+I am now a PHD candidate student of College of Finance, Central University of Finance and Economics, China. 
 
 My research interest includes Behavioral Finance, Asset Pricing and Financial Markets <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -36,7 +36,7 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人 & 点评人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
 
-  # 🎖 Important Honors and Awards
+# 🎖 Important Honors and Awards
 - *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
 - *2023.10* First Class Award for Graduate Student (Top 10%)
 - *2022.10* First Class Award for Graduate Student (Top 10%)
