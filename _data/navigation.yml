@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
@@ -12,11 +12,17 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Important Conference"
+    url: "/#-important-conference"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Important Honors and Awards"
+    url: "/#-important-honors-and-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Social Service"
+    url: "/#-social-service"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Important Internships"
+    url: "/#-important-internships"
