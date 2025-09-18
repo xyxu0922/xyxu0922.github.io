@@ -63,7 +63,7 @@ My boyfriend is also a Phd candidate in economics: [Zanhui Liu](https://sites.go
 - *2021.06* &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”](https://news.hnu.edu.cn/info/1102/27283.htm).
 
 # 💻 Internships
-- *2023.06 - now*, Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
+- *2023.06 - 2025.08*, Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
 - *2022.07 - 2022.08* 福建团省委青年发展部
 - *2022.02 - 2022.08* 北京学说科技有限公司运营部
 - *2022.02 - 2022.05* Research Assistant of Tsinghua PBCSF （清华五道口民生财富管理研究中心研究助理）
