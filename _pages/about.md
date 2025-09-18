@@ -28,12 +28,12 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 
 # 📝 Publications & Important WP
 - *2022.12* Smart money or chasing stars: Evidence from northbound trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
-- *2025.05* Investors' risk-taking behaviors after "escaping from death" *Submitted to Journal of Banking & Finance* (with Li Liao & Xueyong Zhang & Yeqing Zhang)
+- *2025.05* Investors' risk-taking behaviors after "escaping from death" (with Li Liao & Xueyong Zhang & Yeqing Zhang)
 - *2025.05* Putting the brakes on suspicious insider trading: Evidence from China’s decentralization of regulatory enforcement authority (with Xueyong Zhang)
-- *2025.06* The Taiping Echo: Rebellion Cultural and Individual Investors' Gambling (with Weizheng Li & Xueyong Zhang)
+- *2025.09* The Taiping Echo: Rebellion Cultural and Individual Investors' Gambling (with Weizheng Li & Xueyong Zhang)
 
 # 💬 Important Conference
-- *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)
+- *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
 - *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8)，论文汇报人
 - *2024.11* [第二十一届中国金融学年会](https://www2.scut.edu.cn/cfam/nhzwh/list.htm)，论文汇报人 & 点评人
 - *2024.06* [2024 AsianFA Conference](http://asianfa2024.org/ConferenceProgram.html) Presenter & Discussant
