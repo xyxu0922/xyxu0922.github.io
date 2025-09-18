@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD candidate student of College of Finance, Central University of Finance and Economics, China. 
+I am now a PhD candidate in finance from College of Finance, Central University of Finance and Economics, China. 
 
 My research interest includes Behavioral Finance, Gender Issues  Financial Markets and Asset Pricing. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My boyfriend is also a Phd candidate student in economics: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage).
+My boyfriend is also a Phd candidate in economics: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage).
 
 # 📖 Educations
 - *2022.09 - now* College of Finance, Central University of Finance and Economics, Beijing, China. 
