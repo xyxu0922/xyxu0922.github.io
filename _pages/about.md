@@ -66,3 +66,6 @@ My research interest includes Behavioral Finance, Asset Pricing and Financial Ma
 - *2022.02 - 2022.08* 北京学说科技有限公司运营部
 - *2022.02 - 2022.05* Research Assistant of Tsinghua PBCSF （清华五道口民生财富管理研究中心研究助理）
 - *2020.07 - 2020.08* Research Assistant of BOCI China（中银国际证券市场部研究助理）
+
+# ❤ Important Information
+- My boyfriend's personal website: Zanhui Liu(https://sites.google.com/view/zanhui-liu/homepage).
