@@ -21,6 +21,8 @@ I am now a PhD candidate student of College of Finance, Central University of Fi
 
 My research interest includes Behavioral Finance, Gender Issues  Financial Markets and Asset Pricing. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+My boyfriend is also a Phd candidate student in economics: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage).
+
 # 📖 Educations
 - *2022.09 - now* College of Finance, Central University of Finance and Economics, Beijing, China. 
 - *2018.09 - 2022.06* College of Finance and Statistics, Hunan University, Changsha,Hunan, China.
@@ -67,5 +69,3 @@ My research interest includes Behavioral Finance, Gender Issues  Financial Marke
 - *2022.02 - 2022.05* Research Assistant of Tsinghua PBCSF （清华五道口民生财富管理研究中心研究助理）
 - *2020.07 - 2020.08* Research Assistant of BOCI China（中银国际证券市场部研究助理）
 
-# ❤ Important Information
-- My boyfriend's personal website: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage).
