@@ -18,7 +18,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 # Site Author
 author:
-  name             : "Cynthia(Xiaoying) Xu"
+  name             : "Xiaoying(Cynthia) Xu"
   avatar           : "images/baoma.jpg"
   bio              : "Central University of Finance and Economics"
   location         : "Beijing, China"
