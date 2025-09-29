@@ -31,7 +31,7 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 # 📝 Publications & Important WP
 - *2022.12* Smart money or chasing stars: Evidence from northbound trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
 - *2025.05* Investors' risk-taking behaviors after "escaping from death" (with Li Liao & Xueyong Zhang & Yeqing Zhang)
-- *2025.05* Putting the brakes on suspicious insider trading: Evidence from China’s decentralization of regulatory enforcement authority (with Xueyong Zhang)
+- *2025.05* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang)
 - *2025.09* The Taiping echo: Rebellion and individual investors' gambling (with Weizheng Li & Xueyong Zhang)
 
 # 💬 Important Conference
