@@ -29,10 +29,10 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
 # 📝 Publications & Important WP
-- *2022.12* Smart money or chasing stars: Evidence from northbound trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
-- *2025.05* Investors' risk-taking behaviors after "escaping from death" (with Li Liao & Xueyong Zhang & Yeqing Zhang)
+- *2022.12* Smart Money or Chasing Stars: Evidence from Northbound Trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
+- *2025.05* Investors' Risk-taking Behaviors after "Escaping from Death" (with Li Liao & Xueyong Zhang & Yeqing Zhang)
 - *2025.05* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang)
-- *2025.09* The Taiping echo: Rebellion and individual investors' gambling (with Weizheng Li & Xueyong Zhang)
+- *2025.09* Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
 
 # 💬 Important Conference
 - *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
