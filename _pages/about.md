@@ -42,6 +42,9 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 - *2022.10* [第十九届中国金融学年会](http://cfam.top/upcoming/)，论文汇报人 & 点评人
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
 
+# 📚 Teaching (Assistant)
+- *2023.03* Behavior Finance (CUFE, for Prof. David Dickinson)
+  
 # 🎖 Honors and Awards
 - *2024.10* First Class Award for Graduate Student (Top 10%)
 - *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
