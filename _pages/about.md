@@ -31,8 +31,9 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 # 📝 Publications & Important WP
 - *2022.12* Smart Money or Chasing Stars: Evidence from Northbound Trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
 - *2025.05* Investors' Risk-taking Behaviors after "Escaping from Death" (with Li Liao & Xueyong Zhang & Yeqing Zhang)
-- *2025.05* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang)
 - *2025.09* Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
+- *2025.11* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang)
+- *2025.12* CSRC Oral Regulation Communication and Investors' Trading (with Yizhong Wang & Xueyong Zhang)
 
 # 💬 Important Conference
 - *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
@@ -46,10 +47,9 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 - *2023.03* Behavior Finance (CUFE, for Prof. David Dickinson)
   
 # 🎖 Honors and Awards
-- *2024.10* First Class Award for Graduate Student (Top 10%)
+- *2022/23/24/25.10* First Class Award for Graduate Student (Top 10%)
 - *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
 - *2023.10* First Class Award for Graduate Student (Top 10%)
-- *2022.10* First Class Award for Graduate Student (Top 10%)
 - *2022.05* Baogang Outstanding Student (Undergraduate) (2 students in HNU a year)
 - *2022.12* National Scholarship (Top 1%)
 - *2021.12* National Scholarship (Top 1%)
