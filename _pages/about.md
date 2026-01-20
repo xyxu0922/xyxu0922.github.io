@@ -36,6 +36,7 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 - *2025.12* CSRC Oral Regulation Communication and Investors' Trading (with Yizhong Wang & Xueyong Zhang)
 
 # 💬 Important Conference
+- *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
 - *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
 - *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8)，论文汇报人
 - *2024.11* [第二十一届中国金融学年会](https://www2.scut.edu.cn/cfam/nhzwh/list.htm)，论文汇报人 & 点评人
@@ -51,8 +52,7 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 - *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
 - *2023.10* First Class Award for Graduate Student (Top 10%)
 - *2022.05* Baogang Outstanding Student (Undergraduate) (2 students in HNU a year)
-- *2022.12* National Scholarship (Top 1%)
-- *2021.12* National Scholarship (Top 1%)
+- *2021/22.12* National Scholarship (Top 1%)
   
 # 🆙 Social Service
 - *2024.06* [长三角高校“向新 向质 向未来”青年联合宣讲暨全国高校接力宣讲活动](https://mp.weixin.qq.com/s/mnhJ5kkdv9UF4T5K9XQI5g)，论坛报告人
