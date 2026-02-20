@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D candidate in finance from College of Finance, Central University of Finance and Economics, China. I will be on the 2026-2027 academic jobmarket.
+I am now a Ph.D candidate in finance from College of Finance, Central University of Finance and Economics, China. I will be on the 2026-2027 jobmarket.
 
 My research interest includes Behavioral Finance, Asset Pricing, Big Data and Chinese Financial Markets. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-#My boyfriend is also a Ph.d candidate in economics, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage).
+My boyfriend is also a Ph.d candidate in economics, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage).
 
 # 📖 Educations
 - *2022.09 - now* College of Finance, Central University of Finance and Economics, Beijing, China. 
@@ -65,6 +65,7 @@ My research interest includes Behavioral Finance, Asset Pricing, Big Data and Ch
 - *2021.06* &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”](https://news.hnu.edu.cn/info/1102/27283.htm).
 
 # 💻 Internships
+- *2026.01 - Present* CF40 Part-time Young Researcher（中国金融40人论坛兼职青年研究员）
 - *2023.06 - 2025.08* Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
 - *2022.07 - 2022.08* 福建团省委青年发展部
 - *2022.02 - 2022.08* 北京学说科技有限公司运营部
