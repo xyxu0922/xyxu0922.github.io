@@ -33,7 +33,7 @@ My boyfriend is also a Ph.d candidate in economics, focusing on fields related t
 - *2025.05* Investors' Risk-taking Behaviors after "Escaping from Death" (with Li Liao & Xueyong Zhang & Yeqing Zhang)
 - *2025.09* Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
 - *2025.11* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang)
-- *2025.12* CSRC Oral Regulation Communication and Investors' Trading (with Yizhong Wang & Xueyong Zhang)
+- *2026.02* CSRC Regulatory Market Guidance and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
 
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
