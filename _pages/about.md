@@ -19,23 +19,24 @@ redirect_from:
 
 I am now a Ph.D candidate in finance from College of Finance, Central University of Finance and Economics, China. I will be on the 2026-2027 jobmarket.
 
-My research interest includes Behavioral Finance, Asset Pricing, Big Data and Chinese Financial Markets. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I do research in Behavioral Finance, Asset Pricing, Big Data, and Chinese Financial Markets. I am also interested in Development Economics, Gender Issues, and Political Economics. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-<!-- My boyfriend is also a Ph.d candidate in economics, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). -->
+My fiancé is also a Ph.d candidate in economics, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
 
 # 📖 Educations
 - *2022.09 - now* College of Finance, Central University of Finance and Economics, Beijing, China. 
 - *2018.09 - 2022.06* College of Finance and Statistics, Hunan University, Changsha,Hunan, China.
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
-# 📝 Publications & Important WP
+# 📝 Publications & Working Papers (In Progress)
 - *2022.12* Smart Money or Chasing Stars: Evidence from Northbound Trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
 - *2025.05* Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
 - *2025.09* Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
-- *2025.12* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang)
+- *2025.12* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in Journal of Banking and Finance)
 - *2026.03* Informal Regulatory Communication and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
 - *2026.04* The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
-
+- *2026.06* Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
+  
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
 - *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
@@ -46,6 +47,7 @@ My research interest includes Behavioral Finance, Asset Pricing, Big Data and Ch
 - *2021.04* [第三届国家发展青年论坛](https://www.nsd.pku.edu.cn/sylm/xw/514081.htm)，论文汇报人
 
 # 📚 Teaching (Assistant)
+- *2024/25.12* Machine Learning In Finance and Accounting (Xueshuo Platform, for Prof. Fuwei Jiang)
 - *2023.03* Behavior Finance (CUFE, for Prof. David Dickinson)
   
 # 🎖 Honors and Awards
@@ -66,9 +68,10 @@ My research interest includes Behavioral Finance, Asset Pricing, Big Data and Ch
 - *2021.06* &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”](https://news.hnu.edu.cn/info/1102/27283.htm).
 
 # 💻 Internships
+- *2026.03 - 2026.07* State Administration for Market Regulation （国家市场监督管理总局发展研究中心）
 - *2026.01 - Present* CF40 Part-time Young Researcher（中国金融40人论坛兼职青年研究员）
 - *2023.06 - 2025.08* Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
 - *2022.07 - 2022.08* 福建团省委青年发展部
 - *2022.02 - 2022.08* 北京学说科技有限公司运营部
-- *2022.02 - 2022.05* Research Assistant of Tsinghua PBCSF （清华五道口民生财富管理研究中心研究助理）
-- *2020.07 - 2020.08* Research Assistant of BOCI China（中银国际证券市场部研究助理）
+- *2022.02 - 2022.05* Tsinghua PBCSF （清华五道口民生财富管理研究中心）
+- *2020.07 - 2020.08* BOCI China（中银国际证券市场部）
