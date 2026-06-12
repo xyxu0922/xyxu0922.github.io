@@ -21,7 +21,7 @@ I am now a Ph.D candidate in finance from College of Finance, Central University
 
 I do research in Behavioral Finance, Asset Pricing, Big Data, and Chinese Financial Markets. I am also interested in Development Economics, Gender Issues, and Political Economics. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My fiancé is also a Ph.d candidate in economics, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
+My fiancé is a Ph.d candidate in economics from Tsinghua University, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
 
 # 📖 Educations
 - *2022.09 - now* College of Finance, Central University of Finance and Economics, Beijing, China. 
