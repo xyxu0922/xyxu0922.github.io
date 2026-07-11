@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D candidate in finance from College of Finance, Central University of Finance and Economics, China. I will be on the 2026-2027 jobmarket.
+I am now a Ph.D candidate in finance from School of Finance, Central University of Finance and Economics, China. I will be on the 2026-2027 jobmarket.
 
-I do research in Behavioral Finance, Asset Pricing, Big Data, and Chinese Financial Markets. I am also interested in Development Economics, Gender Issues, and Political Economics. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I do research in Behavioral Finance, Asset Pricing, Big Data, and Chinese Financial Markets. I am also interested in Development Economics, Gender Issues, and Political Economy. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My fiancé is a Ph.d candidate in economics from Tsinghua University, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
+My fiancé is a Ph.D candidate in economics from Tsinghua University, focusing on fields related to political economy and macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
 
 # 📖 Educations
 - *2022.09 - now* College of Finance, Central University of Finance and Economics, Beijing, China. 
@@ -29,10 +29,10 @@ My fiancé is a Ph.d candidate in economics from Tsinghua University, focusing o
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
 # 📝 Publications & Working Papers (In Progress)
-- *2022.12* Smart Money or Chasing Stars: Evidence from Northbound Trading in China. *International Journal of Finance & Economics*, 2022. (with Cunfei Liao & Guohao Tang)
+- *2022.12* Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
 - *2025.05* Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
 - *2025.09* Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
-- *2025.12* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in Journal of Banking and Finance)
+- *2025.12* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
 - *2026.03* Informal Regulatory Communication and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
 - *2026.04* The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
 - *2026.06* Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
