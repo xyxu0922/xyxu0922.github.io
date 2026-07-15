@@ -6,8 +6,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Important Conference"
-    url: "/#-important-conference"
+  - title: "Publications & Working Papers"
+    url: "/#-publications-&-working-papers"
+
+    - title: "Work in Progress"
+    url: "/#-work-in-progress"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,8 +18,3 @@ main:
   - title: "Social Service"
     url: "/#-social-service"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Internships"
-    url: "/#-internships"
