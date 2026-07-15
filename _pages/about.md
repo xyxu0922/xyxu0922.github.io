@@ -28,14 +28,17 @@ My fiancé is a Ph.D candidate in economics from Tsinghua University, focusing o
 - *2018.09 - 2022.06* College of Finance and Statistics, Hunan University, Changsha,Hunan, China.
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
-# 📝 Publications & Working Papers (In Progress)
-- *2022.12* Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
-- *2025.05* Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
-- *2025.09* Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
-- *2025.12* Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
-- *2026.03* Informal Regulatory Communication and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
-- *2026.04* The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
-- *2026.06* Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
+# 📝 Publications & Working Papers
+- Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
+- Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
+- Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
+- Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
+- Informal Regulatory Communication and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
+- The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
+
+# 💪 Work In Progress
+- Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
+- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform (with Zanhui Liu)
   
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
