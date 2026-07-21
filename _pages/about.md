@@ -32,7 +32,7 @@ My fiancé is a Ph.D candidate in economics from Tsinghua University, focusing o
 - Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
 - Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
-- Cultural Memory and Individual Investors' Gambling Preference: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
+- Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
 - Informal Regulatory Communication and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
 
