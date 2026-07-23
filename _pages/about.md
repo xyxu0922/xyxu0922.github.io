@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D candidate in finance from School of Finance, Central University of Finance and Economics, China. I will be on the 2026-2027 jobmarket.
+I am now a Ph.D candidate in finance from School of Finance, Central University of Finance and Economics, China. I am on the 2026-2027 jobmarket.
 
 I do research in Behavioral Finance, Asset Pricing, Big Data, and Chinese Financial Markets. I am also interested in Development Economics, Gender Issues, and Political Economy. <a href='https://scholar.google.com/citations?user=xx0mzOsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My fiancé is a Ph.D candidate in economics from Tsinghua University, focusing on fields related to political economy and international macroeconomics. He will also be on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
+My fiancé is a Ph.D candidate in economics from Tsinghua University, focusing on fields related to political economy and international macroeconomics. He is also on the 2026-2027 academic jobmarket: [Zanhui Liu](https://sites.google.com/view/zanhui-liu/homepage). 
 
 # 📖 Educations
 - *2022.09 - now* School of Finance, Central University of Finance and Economics, Beijing, China. 
