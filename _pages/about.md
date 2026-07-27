@@ -38,7 +38,7 @@ My fiancé is a Ph.D candidate in economics from Tsinghua University, focusing o
 
 # 💪 Work In Progress
 - Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
-- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform (with Zanhui Liu)
+- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China (with Zanhui Liu)
   
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
