@@ -33,7 +33,7 @@ My research examines financial decision-making by individuals, financial institu
 - Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
 - Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
-- - Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
+- Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
 - Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China (with Zanhui Liu)
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
 
