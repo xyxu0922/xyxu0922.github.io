@@ -28,7 +28,7 @@ My research examines financial decision-making by individuals, financial institu
 - *2018.09 - 2022.06* College of Finance and Statistics, Hunan University, Changsha, Hunan, China.
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
-# 📝 Publications & Working Papers
+# 📝 Publications
 - Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
 
 # 💪 Working Papers
