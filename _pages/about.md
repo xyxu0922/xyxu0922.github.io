@@ -30,15 +30,16 @@ My research examines financial decision-making by individuals, financial institu
 
 # 📝 Publications & Working Papers
 - Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
-- Strengthening Regulatory Enforcement and Suspicious Insider Trading (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
-- Investors' Risk-taking Behaviors after "Escaping from Death" (with Yeqing Zhang)
-- Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion (with Weizheng Li & Xueyong Zhang)
-- Efficient Political Budget Cycles (with Zanhui Liu & Qing Liu)
-- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China (with Zanhui Liu)
-- The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds (with Mingrui Liu)
 
-# 💪 Work In Progress
-- Informal Regulatory Communication and Individual Investors' Trading (with Yizhong Wang & Xueyong Zhang)
+# 💪 Working Papers
+- Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
+- Investors' Risk-taking Behaviors after "Escaping from Death". (with Yeqing Zhang, Under Review)
+- Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li, Under Review)
+- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Under Review)
+- Portfolio Exposure and Investor Responses to Regulatory Communication. (with Yizhong Wang & Xueyong Zhang)
+- Optimal Fiscal Policy under Political Accountability. (with Zanhui Liu & Qing Liu)
+- The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu)
+- 宏观政策预期管理与个人投资者风险承担——来自证监会公开监管沟通的微观证据. (与张学勇和王义中合作)
   
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
