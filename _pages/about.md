@@ -37,9 +37,7 @@ My research examines financial decision-making by individuals, financial institu
 - Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li, Under Review)
 - Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Under Review)
 - Portfolio Exposure and Investor Responses to Regulatory Communication. (with Yizhong Wang & Xueyong Zhang)
-- Optimal Fiscal Policy under Political Accountability. (with Zanhui Liu & Qing Liu)
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu)
-- 宏观政策预期管理与个人投资者风险承担——来自证监会公开监管沟通的微观证据. (与张学勇和王义中合作)
   
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
