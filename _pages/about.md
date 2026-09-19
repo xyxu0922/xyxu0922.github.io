@@ -31,13 +31,16 @@ My research examines financial decision-making by individuals, financial institu
 # 📝 Publications
 - Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
 
-# 💪 Working Papers
+# 📚 Working Papers
 - Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death". (with Yeqing Zhang, Under Review at **Journal of Economic Behavior & Organization**)
 - Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li, Submitted to **Journal of Financial Market**)
 - Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Submitted to **Journal of Public Economics**)
-- Portfolio Exposure and Investor Responses to Regulatory Communication. (with Yizhong Wang & Xueyong Zhang)
+- Regulatory Communication and Individual Investors’ Portfolio Decisions. (with Yizhong Wang & Xueyong Zhang)
 <!-- The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu) -->
+
+# 💪 Work In Progress
+- Loong's Gift: From Chinese Aid to Commercial Finance. (with Zanhui Liu)
   
 # 💬 Important Conference
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
