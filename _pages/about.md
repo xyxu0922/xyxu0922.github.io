@@ -34,8 +34,8 @@ My research examines financial decision-making by individuals, financial institu
 # 📚 Working Papers
 - Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death". (with Yeqing Zhang, Revise and Resubmit at **Journal of Economic Behavior & Organization**)
-- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Submitted to **Journal of Development Economics**)
-- Regulatory Communication and Individual Investors’ Portfolio Decisions. (with Yizhong Wang & Xueyong Zhang)
+- Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Submitted)
+- Regulatory Communication, Portfolio Exposure, and Retail Trading. (with Yizhong Wang & Xueyong Zhang)
 - Loong's Gift: From Chinese Aid to Commercial Finance. (with Zanhui Liu)
 - Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li)
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu) -
