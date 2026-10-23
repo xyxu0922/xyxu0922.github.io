@@ -35,9 +35,9 @@ My research examines financial decision-making by individuals, financial institu
 - Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death". (with Yeqing Zhang, Revise and Resubmit at **Journal of Economic Behavior & Organization**)
 - Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Submitted)
+- - Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li, Submitted)
 - Regulatory Communication, Portfolio Exposure, and Retail Trading. (with Yizhong Wang & Xueyong Zhang)
-- Loong's Gift: From Chinese Aid to Commercial Finance. (with Zanhui Liu)
-- Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li)
+- Loong's Gift: From Chinese Aid to Commercial Finance. (with Qing Liu, Zanhui Liu and Vivian Yue)
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu) -
   
 # 💬 Important Conference
@@ -66,6 +66,7 @@ My research examines financial decision-making by individuals, financial institu
 - *2022.06* [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html)，第二讲&第八讲主讲人
 
 # 🔥 News
+- *2025.09* &nbsp;🎉 [我校博士研究生参加第八届林岛诺贝尔奖获得者经济学大会](https://news.cufe.edu.cn/info/1003/61851.htm).
 - *2022.05* &nbsp;🎉 [许筱颖同学入选本专科生国家奖学金获奖学生100名代表名录](https://news.hnu.edu.cn/info/1102/31035.htm).
 - *2021.06* &nbsp;🎉 [“最美大学生”许筱颖：青春本多彩 韶华不可负](https://news.hnu.edu.cn/info/1106/28728.htm).
 - *2021.06* &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”](https://news.hnu.edu.cn/info/1102/27283.htm).
