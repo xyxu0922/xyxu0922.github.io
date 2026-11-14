@@ -29,10 +29,10 @@ My research examines financial decision-making by individuals, financial institu
 - *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
 
 # 📝 Publications
-- Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2022. (with Cunfei Liao & Guohao Tang)
+- Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2024. (with Cunfei Liao & Guohao Tang)
 
 # 📚 Working Papers
-- Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit in **Journal of Banking and Finance**)
+- Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit at **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death". (with Yeqing Zhang, Revise and Resubmit at **Journal of Economic Behavior & Organization**)
 - Dodging the Spotlight: Retail Trading around Regulatory Communication. (with Yizhong Wang & Xueyong Zhang, **Job Market Paper**)
 - Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Submitted)
