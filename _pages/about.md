@@ -26,7 +26,7 @@ My research examines financial decision-making by individuals, financial institu
 # 📖 Educations
 - *2022.09 - now* School of Finance, Central University of Finance and Economics, Beijing, China. 
 - *2018.09 - 2022.06* College of Finance and Statistics, Hunan University, Changsha, Hunan, China.
-- *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China
+- *2015.09 - 2018.06* Fuzhou No.1 High School, Fuzhou, Fujian, China.
 
 # 📝 Publications
 - Smart Money or Chasing Stars: Evidence from Northbound Trading in China. **International Journal of Finance & Economics**, 2024. (with Cunfei Liao & Guohao Tang)
@@ -35,12 +35,13 @@ My research examines financial decision-making by individuals, financial institu
 - Strengthening Regulatory Enforcement and Suspicious Insider Trading. (with Xueyong Zhang, Revise and Resubmit at **Journal of Banking and Finance**)
 - Investors' Risk-taking Behaviors after "Escaping from Death". (with Yeqing Zhang, Revise and Resubmit at **Journal of Economic Behavior & Organization**)
 - Dodging the Spotlight: Retail Trading around Regulatory Communication. (with Yizhong Wang & Xueyong Zhang, **Job Market Paper**)
+- Loong's Gift: From Chinese Aid to Commercial Finance. (with Qing Liu, Zanhui Liu and Vivian Yue, **2026 China Finance PhD Forum Outstanding Paper**) 
 - Political Incentives and Public Debt Accumulation: Evidence from a Cadre Evaluation Reform in China. (with Zanhui Liu, Submitted)
 - Cultural Memory and Individual Investors Speculation: Evidence from the Taiping Rebellion. (with Weizheng Li, Submitted)
-- Loong's Gift: From Chinese Aid to Commercial Finance. (with Qing Liu, Zanhui Liu and Vivian Yue)
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu) 
   
 # 💬 Important Conference
+- *2026.11* [第十届中国金融学博士生论坛暨第五届开放经济与金融高质量发展论坛]([https://cfphd.xmu.edu.cn/web/meetings])，论文汇报人
 - *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
 - *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
 - *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8)，论文汇报人
@@ -51,19 +52,19 @@ My research examines financial decision-making by individuals, financial institu
 
 # 📚 Teaching (Assistant)
 - *2024/25.12* Machine Learning In Finance and Accounting (Xueshuo Platform, for Prof. Fuwei Jiang)
-- *2023.03* Behavior Finance (CUFE, for Prof. David Dickinson)
+- *2023.03* Behavior Finance (Master) (CUFE, for Prof. David Dickinson)
   
 # 🎖 Honors and Awards
-- *2022/23/24/25.10* First Class Award for Graduate Student (Top 10%)
-- *2023.11* Xiaomi Special Scholarship (Graduate) (3 students a year)
-- *2023.10* First Class Award for Graduate Student (Top 10%)
-- *2022.05* Baogang Outstanding Student (Undergraduate) (2 students in HNU a year)
-- *2021/22.12* National Scholarship (Top 1%)
+- *2026/25/24/23/22* First Class Award for Graduate Student (Top 10%)
+- *2023* Xiaomi Special Scholarship (Graduate) (3 students a year)
+- *2022* Outstanding Graduate of Hunan Province
+- *2022/21* National Scholarship (Top 1%)
+- *2021* Baogang Outstanding Student (Undergraduate) (2 students a year); Hunan Province “Most Excellent College Student”; Hunan Province “Aspiring and Virtuous Youth”
   
 # 🆙 Social Service
 - *2024.06* [长三角高校“向新 向质 向未来”青年联合宣讲暨全国高校接力宣讲活动](https://mp.weixin.qq.com/s/mnhJ5kkdv9UF4T5K9XQI5g)，论坛报告人
 - *2024.01* [清华大学博士生讲师团“立言计划”第六期（秋季学期）结业](https://www.tsinghua.edu.cn/info/1180/109399.htm)， 高校班优秀学员代表
-- *2022.06* [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html)，第二讲&第八讲主讲人
+- *2022.06* [《与投资者同行》金融科普公益视频第一季](https://www.yicai.com/news/101447009.html)，第二讲 & 第八讲主讲人
 
 # 🔥 News
 - *2025.09* &nbsp;🎉 [我校博士研究生参加第八届林岛诺贝尔奖获得者经济学大会](https://news.cufe.edu.cn/info/1003/61851.htm).
@@ -72,10 +73,9 @@ My research examines financial decision-making by individuals, financial institu
 - *2021.06* &nbsp;🎉 [许筱颖获评“湖南向上向善好青年”](https://news.hnu.edu.cn/info/1102/27283.htm).
 
 # 💻 Internships
-- *2026.03 - 2026.07* State Administration for Market Regulation （国家市场监督管理总局发展研究中心）
 - *2026.01 - Present* CF40 Part-time Young Researcher（中国金融40人论坛兼职青年研究员）
+- *2026.03 - 2026.07* State Administration for Market Regulation （国家市场监督管理总局发展研究中心）
 - *2023.06 - 2025.08* Capital Operation of Horizon Robotics（地平线机器人有限公司资本运营部）
 - *2022.07 - 2022.08* 福建团省委青年发展部
-- *2022.02 - 2022.08* 北京学说科技有限公司运营部
+- *2022.02 - 2022.08* 北京学说科技有限公司
 - *2022.02 - 2022.05* Tsinghua PBCSF （清华五道口民生财富管理研究中心）
-- *2020.07 - 2020.08* BOCI China（中银国际证券市场部）
