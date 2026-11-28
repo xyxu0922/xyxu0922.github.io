@@ -41,8 +41,8 @@ I do research in Behavior Finance, Financial Markets, International Finance and 
 - The Face of Overconfidence: Biological Dominance and Post-Visit Trading in Mutual Funds. (with Mingrui Liu) 
   
 # 💬 Important Conference
-- *2026.11* [第十届中国金融学博士生论坛暨第五届开放经济与金融高质量发展论坛]([https://cfphd.xmu.edu.cn/web/meetings])，论文汇报人
-- *2025.10* [2025 FMA Conference]([https://www.fma.org/vancouver]) Presenter & Discussant
+- *2026.11* [第十届中国金融学博士生论坛暨第五届开放经济与金融高质量发展论坛](https://sof.sufe.edu.cn/26/33/c7801a271923/page.htm)，论文汇报人
+- *2025.10* [2025 FMA Conference](https://www.fmaconferences.org/Vancouver/VancouverProgram.htm) Presenter & Discussant
 - *2025.08* [74 lindauNobel Laureate Meeting(Economics)](https://www.lindau-nobel.org/)，NGS论文汇报人
 - *2024.11* [第八届中国金融学博士生论坛暨第三届清华大学金融与发展论坛](https://cfphd.xmu.edu.cn/web/meetings?meetingid=dcd6deefefa1403fa38705b063769ea8)，论文汇报人
 - *2024.11* [第二十一届中国金融学年会](https://www2.scut.edu.cn/cfam/nhzwh/list.htm)，论文汇报人 & 点评人
